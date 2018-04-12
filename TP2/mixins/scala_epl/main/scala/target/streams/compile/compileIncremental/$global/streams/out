@@ -1,0 +1,28 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/home/lucas/Documentos/mixins/scala_epl/main/scala/Core.scala, /home/lucas/Documentos/mixins/scala_epl/main/scala/SubEval.scala, /home/lucas/Documentos/mixins/scala_epl/main/scala/Sub.scala, /home/lucas/Documentos/mixins/scala_epl/main/scala/AddEval.scala, /home/lucas/Documentos/mixins/scala_epl/main/scala/Main.scala, /home/lucas/Documentos/mixins/scala_epl/main/scala/Mul.scala, /home/lucas/Documentos/mixins/scala_epl/main/scala/Add.scala, /home/lucas/Documentos/mixins/scala_epl/main/scala/MulEval.scala, /home/lucas/Documentos/mixins/scala_epl/main/scala/Eval.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(scala.Sub.GSub, scala.SubEval.Sub, scala.AddEval.package, scala.Core.Literal, scala.Add.Add, scala.Add.package, scala.Core.package, scala.Mul.Mul, scala.Sub.Sub, scala.MulEvals.Mul, scala.Eval.Literal, scala.Add.GAdd, scala.Mul.GMul, scala.Eval.Expression, scala.AddEval.Add, scala.MulEvals.package, scala.Core.Expression, scala.Eval.package, Main, scala.SubEval.package, scala.Sub.package, scala.Mul.package)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated package objects: Set(scala.AddEval.package, scala.Add.package, scala.Core.package, scala.MulEvals.package, scala.Eval.package, scala.SubEval.package, scala.Sub.package, scala.Mul.package)[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 9 sources: invalidated sources (9) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 9 Scala sources to /home/lucas/Documentos/mixins/scala_epl/main/scala/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.3:compile for Scala 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.3:compile for Scala 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 7f401af3 for Scala compiler version 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/lucas/.sbt/boot/scala-2.12.4/lib/scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/lucas/Documentos/mixins/scala_epl/main/scala/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompilation failed (CompilerInterface)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
